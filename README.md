@@ -1,6 +1,6 @@
 # SvelteKit with TurtleDB Todos
 
-This is a test of using TurtleDB with SvelteKit.
+This is a test of using TurtleDB with SvelteKit. It works but is really, really basic and not polished or optimal by any means. I just wanted to evaluate TurtleDB with SvelteKit a bit.
 
 
 ## Developing
